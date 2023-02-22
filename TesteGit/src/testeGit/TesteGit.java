@@ -6,6 +6,7 @@ public class TesteGit {
 		System.out.println("Teste");
 		System.out.println("Nova Linha");
 		System.out.println("Nova linha compartilhada");
+		System.out.println("Novo teste");
 		AlunoClass aluno = new AlunoClass();
 		
 		aluno.setNome("Teste Git");
