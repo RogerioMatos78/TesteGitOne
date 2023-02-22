@@ -9,9 +9,11 @@ public class TesteGit {
 		
 		aluno.setNome("Teste Git");
 		aluno.setIdade(45);
+		aluno.setEndereco("Rua 15");
 		
 		System.out.println("Nome " + aluno.getNome() );
-		System.out.println("Idade " + aluno.getIdade() );		
+		System.out.println("Idade " + aluno.getIdade() );	
+		System.out.println("Endereco " + aluno.getEndereco());
 	}
 
 }
